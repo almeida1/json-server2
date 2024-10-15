@@ -1,5 +1,5 @@
 import "./App.css";
-import ClienteConsulta from "./componentes/ClienteConsulta";
+import ClienteConsulta from "./componentes/ClienteConsulta2";
 
 function App() {
   return (
